@@ -3,7 +3,7 @@
         <tr>
             <td rowspan="3" align="center">
                 <a href="https://sylviiu.dev/">
-                    <img src="https://raw.githubusercontent.com/sylviiu/sylviiu.github.io/main/assets/img/brightcropcirc.webp" height="192px"/>
+                    <img src="https://raw.githubusercontent.com/sylviiu/sylviiu.github.io/main/assets/img/brightcropcirc.webp" height="192px" width="192px"/>
                 </a>
             </td>
             <td>
