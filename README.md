@@ -1,22 +1,35 @@
 <div align="center">
-    <a href="https://sylviiu.dev/">
-        <img src="https://raw.githubusercontent.com/sylviiu/sylviiu.github.io/main/assets/img/brightcropcirc.webp" width="128px"/>
-    </a><br><br>
-    <a href="https://twitter.com/sylviiu">
-        <img src="https://img.shields.io/badge/FOLLOW-black?label=%40sylviiu&style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=black"/>
-    </a>
-    <a href="https://github.com/ezytdl/ezytdl">
-        <img src="https://img.shields.io/github/downloads/ezytdl/ezytdl/total?style=for-the-badge&logo=github&logoColor=white&label=EZYTDL%20DOWNLOADS&labelColor=black&color=black"/>
-    </a>
-    <a href="https://github.com/sponsors/sylviiu/">
-        <img src="https://img.shields.io/github/sponsors/sylviiu?style=for-the-badge&logo=githubsponsors&logoColor=white&label=SPONSORS&labelColor=black&color=black"/>
-    </a>
-    <br>
+    <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0" align="center">
+        <tr>
+            <td rowspan="3" align="center">
+                <a href="https://sylviiu.dev/">
+                    <img src="https://raw.githubusercontent.com/sylviiu/sylviiu.github.io/main/assets/img/brightcropcirc.webp" height="192px"/>
+                </a>
+            </td>
+            <td>
+                <a class="col-sm-1" href="https://twitter.com/sylviiu">
+                    <img src="https://img.shields.io/badge/FOLLOW-black?label=%40sylviiu&style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=black"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a class="col-sm-2" href="https://github.com/ezytdl/ezytdl">
+                    <img src="https://img.shields.io/github/downloads/ezytdl/ezytdl/total?style=for-the-badge&logo=github&logoColor=white&label=EZYTDL%20DOWNLOADS&labelColor=black&color=black"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a class="col-sm-3" href="https://github.com/sponsors/sylviiu/">
+                    <img src="https://img.shields.io/github/sponsors/sylviiu?style=for-the-badge&logo=githubsponsors&logoColor=white&label=SPONSORS&labelColor=black&color=black"/>
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
----
-
-## **Hey, I'm Syl!**
+# Hi, I'm Syl!
 
 I've been trying to figure out how to code for 5 years now. Still haven't figured it out.
 
