@@ -42,7 +42,6 @@ I've been trying to figure out how to code for 5 years now. Still haven't figure
     <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" height="40"/>
