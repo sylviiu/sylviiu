@@ -27,14 +27,14 @@ I've been trying to figure out how to code for 5 years now. Still haven't figure
 
 <div align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg" style="filter: brightness(200%) contrast(200%) saturate(0%) invert(1)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="filter: saturate(0%) invert(1) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="filter: saturate(0%) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: saturate(0%) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="filter: saturate(0%) invert(1) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="filter: saturate(0%) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="filter: saturate(0%) brightness(200%) contrast(200%)" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="filter: saturate(0%) brightness(200%) contrast(200%)" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40"/>
 </div>
 
 ---
