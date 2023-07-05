@@ -14,8 +14,8 @@
         </tr>
         <tr>
             <td>
-                <a class="col-sm-2" href="https://github.com/ezytdl/ezytdl">
-                    <img src="https://img.shields.io/github/downloads/ezytdl/ezytdl/total?style=for-the-badge&logo=github&logoColor=white&label=EZYTDL%20DOWNLOADS&labelColor=black&color=black"/>
+                <a class="col-sm-2" href="https://github.com/sylviiu/ezytdl">
+                    <img src="https://img.shields.io/github/downloads/sylviiu/ezytdl/total?style=for-the-badge&logo=github&logoColor=white&label=EZYTDL%20DOWNLOADS&labelColor=black&color=black"/>
                 </a>
             </td>
         </tr>
@@ -34,7 +34,7 @@
 I've been trying to figure out how to code for 5 years now. Still haven't figured it out.
 
 - Pretty much a full-stack developer, but I'm more of a frontend person. (I like making things look pretty.)
-- I'm currently working on [EZYTDL](https://github.com/ezytdl/)
+- I'm currently working on [EZYTDL](https://github.com/sylviiu/ezytdl/)
 - I'm looking to collaborate on anything, really. I'm always looking for new things to learn.
 - I currently main JavaScript / Node.JS, Python, and HTML/CSS. I'm beginning to branch out to other languages, though.
 
