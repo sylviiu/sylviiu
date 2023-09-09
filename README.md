@@ -59,4 +59,5 @@ The best way to reach me is through my email, which you'll find below my profile
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylviiu&hide_border=true&date_format=M%20j[%2C%20Y]&background=00000000&stroke=FFFFFF&ring=6932a8&fire=6932a8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sylviiu&show_icons=true&bg_color=00000000&text_color=FFFFFF&hide_border=true&icon_color=6932a8&title_color=6932a8"/>
 </div>
